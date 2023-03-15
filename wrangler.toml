@@ -1,4 +1,4 @@
-name = "{{project-name}}"
+name = "turso-demo"
 type = "javascript"
 workers_dev = true
 compatibility_date = "2022-01-20"
